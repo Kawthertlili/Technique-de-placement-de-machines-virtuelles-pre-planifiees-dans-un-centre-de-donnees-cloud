@@ -1,0 +1,1 @@
+# Technique-de-placement-de-machines-virtuelles-pre-planifiees-dans-un-centre-de-donn-es-cloud
