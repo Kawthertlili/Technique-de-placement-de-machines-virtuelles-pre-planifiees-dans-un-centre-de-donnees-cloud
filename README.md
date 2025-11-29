@@ -108,7 +108,7 @@ Vue similaire à la Figure 3.1 du rapport ✦ :
 │   ├─ machines_virtuelles_2.txt
 │   └─ ...
 └─ fichiers générés automatiquement
-'''
+
 
 
 
